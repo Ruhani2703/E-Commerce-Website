@@ -1,2 +1,2 @@
 # E-Commerce-Website
-This is the frontend part of the e-commerce website 
+This is the frontend part of an e-commerce website 
